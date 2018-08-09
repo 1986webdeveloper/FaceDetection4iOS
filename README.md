@@ -42,5 +42,3 @@ let pixelBuffer = CMSampleBufferGetImageBuffer(sampleBuffer)
         
         detectFace(on: ciImageWithOrientation)
 }
-
-![alt text](http://dev.acquaintsoft.com/facedetection.gif)
